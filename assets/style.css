@@ -112,7 +112,7 @@ nav {
     justify-content: center;
     row-gap: 5px;
     margin-top: 10px;
-   margin-left: 70;
+    margin-left: 70%;
     cursor: pointer;
     z-index: 200;
     transition: 0.3s;
